@@ -24,14 +24,18 @@
     display: flex;
     align-items: center;
 }
+.header__icon{
+   margin-right: 8px;
+}
 .header__inputButton{
     width: 50px !important;
     background-color: #fafafa;
-    border-left: lightgray;
+    border-left: 1px solid lightgray;
     color: grey;
 
 }
 .header__input > input {
-    flex: 1;    
-    border: none;
+    flex: 1;  
+    border-style: none;
+
 }
