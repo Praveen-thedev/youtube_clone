@@ -36,6 +36,6 @@
 }
 .header__input > input {
     flex: 1;  
-    border-style: none;
+    border: none;
 
 }

@@ -10,7 +10,7 @@ import { Link } from "react-router-dom";
 
 //es7 snippets extention rfce
 function Header() {
-    const [inputSearch, setInputSearch] = useState("");
+    const [inputSearch, setInputSearch] = useState('');
     return (
         <div className="header">
             <div className="header__left">

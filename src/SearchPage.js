@@ -39,7 +39,7 @@ function SearchPage() {
                 image="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190911190208/How-to-Become-A-Successful-Java-Developer.png"
                 description="Give your brain a reboot"
             />
-            
+
             <VideoRow
                 title="Become a Master of Your Dreams."
                 views="2.3m"

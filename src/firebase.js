@@ -1,10 +1,9 @@
-const firebaseConfig = {
-    apiKey: "AIzaSyAxlpQunSvzl27yczWklXi_E4yIZ1LDnY8",
-    authDomain: "clone-3af09.firebaseapp.com",
-    databaseURL: "https://clone-3af09.firebaseio.com",
-    projectId: "clone-3af09",
-    storageBucket: "clone-3af09.appspot.com",
-    messagingSenderId: "882768918801",
-    appId: "1:882768918801:web:080675705b910c27ecf4b0",
-    measurementId: "G-XS6LX57NGK"
-};
+ const firebaseConfig = {
+    apiKey: "AIzaSyDXH5eG_0yGR5CTzvk6vsWLzdVSUhNOAX8",
+    authDomain: "clone-2e89c.firebaseapp.com",
+    projectId: "clone-2e89c",
+    storageBucket: "clone-2e89c.appspot.com",
+    messagingSenderId: "1095174593086",
+    appId: "1:1095174593086:web:5aba2f088d3a1f6f568f6f",
+    measurementId: "G-6JZ1MHS83X"
+  };
